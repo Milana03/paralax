@@ -260,19 +260,19 @@ div#bg-1-5{
 
 }  
 
-picture1 {
+.picture1 {
 
   animation: picture1 5s infinite;
 
 }
 
-picture2 {
+.picture2 {
 
   animation: picture2 5s infinite;
 
 }
 
-picture3 {
+.picture3 {
 
   animation: picture3 5s infinite;
 
